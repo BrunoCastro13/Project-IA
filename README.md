@@ -1,5 +1,5 @@
-# Projeto-IA
+# Project-IA
 
-**Projeto "Defender-Bot"**
+**Project "Defender-Bot"**
 
-Projeto foi desenvolvido no ambito da cadeira de Inteligencia Artificial utilizando a linguagem python em que o robo, criado usando legos, têm de vencer o jogo descrito no enunciado do projeto (Enunciado nos ficheiros).
+The project was developed within the scope of the Artificial Intelligence course using the Python language, in which the robot, created using Legos, has to win the game described in the project statement (Project statement in the files).
